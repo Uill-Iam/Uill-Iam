@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente trabalhando em um projeto: **Painel de Dados**
 
-- 🌱 Atualmente estou aprendendo **Phyton e Machine learning, AI**
+- 🌱 Atualmente estou aprendendo **Phyton,Machine learning e AI**
 
 - 👯 Colaborando em um projeto de: **IA**
 
-- 💬 Me pergunte sobre **TSQL, Power BI, SISS, R e Phyton**
+- 💬 Me pergunte sobre **TSQL, Power BI, SISS, R, Phyton e Analise de dados**
 
 - 📫 Voce me acha em **uilliam2011@gmail.com**
 
