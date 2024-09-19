@@ -1,7 +1,7 @@
 <h1 align="center">Oi, Sou Uilliam</h1>
 <h3 align="center">Apaixonado por Data science.</h3>
 
-- 🔭 Atualmente trabalhando em um projeto: **Painel de Dados**
+- 🔭 Atualmente trabalhando em um projeto: **Projeto de Inteligencia Artificial**
 
 - 🌱 Atualmente estou aprendendo **Phyton,Machine learning e AI**
 
