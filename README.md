@@ -1,41 +1,63 @@
 <h1 align="center">Oi, Sou Uilliam</h1>
-<h3 align="center">Apaixonado por Data science.</h3>
+<h3 align="center">Apaixonado por Data Science e Inteligência Artificial</h3>
 
-- 🔭 Atualmente trabalhando em um projeto: **Projeto de Inteligencia Artificial**
+- 🔭 Atualmente trabalhando em um projeto de **Inteligência Artificial**
+- 🌱 Aprendendo **Python, Machine Learning e AI**
+- 👯 Colaborando em projetos de **IA**
+- 💬 Me pergunte sobre **T-SQL, Power BI, SSIS, R, Python, e Análise de Dados**
+- 📫 Me encontre em **uilliam2011@gmail.com**
+- 📄 Veja minha experiência em Análise e Tratamento de Dados: [LinkedIn](https://www.linkedin.com/in/uilliam-santos/)
 
-- 🌱 Atualmente estou aprendendo **Phyton,Machine learning e AI**
-
-- 👯 Colaborando em um projeto de: **IA**
-
-- 💬 Me pergunte sobre **TSQL, Power BI, SISS, R, Phyton e Analise de dados**
-
-- 📫 Voce me acha em **uilliam2011@gmail.com**
-
-- 📄 Experiencia em analise e tratamento de dados [https://www.linkedin.com/in/uilliam-santos/](https://www.linkedin.com/in/uilliam-santos/)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/uilliam-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uilliam-santos/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/uilliam-santos/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uilliam-santos/" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
 
-
-
-
-<!---
-Uill-Iam/Uill-Iam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-
-- 👋 Hi, I’m @Uill-Iam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---->
+<h3 align="left">Nível de Conhecimento:</h3>
+<!-- Barra de progresso visual com emojis -->
+<p align="left">
+  <strong>T-SQL:</strong> 
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+  <br />
+  <strong>Python:</strong> 
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥
+  <br />
+  <strong>SSIS:</strong> 
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥
+  <br />
+  <strong>R:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>Scala:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>PySpark:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>SAS:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>Google Analytics:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>Vortex IX:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+  <br />
+  <strong>Gemini:</strong> 
+  🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
+</p>
